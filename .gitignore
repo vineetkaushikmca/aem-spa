@@ -79,3 +79,5 @@ buildNumber.properties
 
 ### MacOS ###
 .DS_Store
+react-app/package-lock.json
+react-app/package-lock.json
